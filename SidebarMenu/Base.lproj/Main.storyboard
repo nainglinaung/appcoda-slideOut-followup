@@ -242,7 +242,7 @@
                                         </tableViewCellContentView>
                                         <color key="backgroundColor" red="0.94085192680358887" green="0.94903725385665894" blue="0.95307987928390503" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <connections>
-                                            <segue destination="0J7-Hk-VFu" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="5yN-YB-3KL"/>
+                                            <segue destination="0J7-Hk-VFu" kind="custom" customClass="SWRevealViewControllerSeguePushController" id="iYK-cl-1jK"/>
                                         </connections>
                                     </tableViewCell>
                                 </cells>
@@ -349,7 +349,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="M9g-Pf-VqC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1818" y="1025"/>
+            <point key="canvasLocation" x="1818" y="981"/>
         </scene>
     </scenes>
     <resources>
